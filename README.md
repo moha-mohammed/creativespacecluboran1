@@ -33,10 +33,3 @@
 | **Google Fonts (Poppins)** | Modern typography |
 | **GitHub Pages** | Free hosting with HTTPS |
 | **Namecheap** | Free `.me` domain (via GitHub Student Pack) |
-
----
-
-## 📂 Project Structure
-
-
-
